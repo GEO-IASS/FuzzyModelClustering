@@ -1,6 +1,6 @@
 Fuzzy Model Clustering for Mult-modal learning:
 
-The parameters of data originating from multiple linear models can be learnt using Fuzzy Model Clustering. This is essentially the simulation of the work by Vidhyashankar et.al. 
+The parameters of data originating from multiple linear models can be learnt using Fuzzy Model Clustering.
 
 100 Data samples originating from three linear models 
 1) y=0.8x+2
