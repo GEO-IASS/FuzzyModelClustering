@@ -7,9 +7,9 @@ The parameters of data originating from multiple linear models can be learnt usi
 
 100 Data samples originating from three linear models 
 
-1.  y=0.8x+2
-2.  y=0.2x+1
-3.  y=-1.5x
+1.  `y=0.8x+2`
+2.  `y=0.2x+1`
+3.  `y=-1.5x`
 
 were loaded in the input (`s_input.txt`) and output files(`s_output.txt`) 
 
