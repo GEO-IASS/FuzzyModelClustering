@@ -1,8 +1,4 @@
-# this below code is modified version of the code written by raghu's btp students
-# i am including the computation of gd index and modifying the logic of reassigning the clusters
-# most of this code is written by sneha,manoj and suraj.
-#lines starting with ## are the lines which are commmented by sreeram
-#Shriramajayam
+
 
 ############################################ Libraries Imported #############################################################
 import random
